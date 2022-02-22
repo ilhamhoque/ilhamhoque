@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python 3
 - 📫 How to reach me: you can go to my website and contact me there.
-- website: https://ilhamsphotography.studio/#contact
+- website: https://ilhamsphotography.com/#contact
 
 ## Check out my repositories: https://github.com/ilhamhoque?tab=repositories
 
