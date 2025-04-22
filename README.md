@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ilham</h1>
 <h3 align="center">Cyber Security & Digital Forensics Student | Aspiring Cybersecurity Professional | Java, Python, Javascript and Cybersecurity Enthusiast</h3>
 
-- 🌱 I’m currently learning **Cisco course**
+- 🌱 I’m currently studying for **Google Cloud Cybersecurity **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilhamhoque?tab=repositories](https://github.com/ilhamhoque?tab=repositories)
 
